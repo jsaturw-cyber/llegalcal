@@ -328,7 +328,7 @@ print("✅ Модуль парсинга готов!")
 # ОСНОВНОЙ КОД БОТА (ДЛЯ RENDER)
 # ================================================================
 
-TOKEN = os.environ.get("TELEGRAM_TOKEN", "8712582808:AAFBZ4VV6Djj7-otwZ_B_yQGyKVgRUwWmdY")
+TOKEN = os.environ.get("TELEGRAM_TOKEN", "8940765527:AAFAhrCJVrjiJjXsDxE0dSSBQtdblYDeXlU")
 
 if not TOKEN or TOKEN == "ВАШ_ТОКЕН_СЮДА":
     print("❌ ОШИБКА: Токен не установлен!")
