@@ -1,8 +1,0 @@
-aiogram==3.21.0
-apscheduler==3.10.4
-aiohttp==3.9.3
-beautifulsoup4==4.12.3
-nest_asyncio==1.6.0
-curl_cffi==0.5.10
-Flask==3.0.0
-reportlab==4.2.5
